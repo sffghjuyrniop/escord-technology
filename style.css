@@ -1,0 +1,43 @@
+body {
+	background-image: url("پس زمینه-7.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box1{
+	margin-top: 455px;
+	margin-left: 444px;
+	width: 165px;
+	height: 165px;
+	display: block;
+	margin-bottom: -62px;
+}
+.box2 {
+	margin-left: 268px;
+	margin-top: 70px;
+	width: 180px;
+	height: 180px;
+	display: block;
+}
+.box3 {
+	margin-left: 47px;
+	margin-top: 7px;
+	width: 220px;
+	height: 220px;
+	display: block;
+}
+.box4 {
+	margin-left: 268px;
+	margin-top: 20px;
+	width: 180px;
+	height: 180px;
+	display: block;
+}
+.box5{
+	margin-left: 444px;
+	margin-top: 25px;
+	width: 165px;
+	height: 165px;
+}
+
+
